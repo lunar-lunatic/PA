@@ -1,2 +1,2 @@
 # PA
-People's Assembly public documents
+This repository contains all the documents (including motions and results) of the People's Assembly.
