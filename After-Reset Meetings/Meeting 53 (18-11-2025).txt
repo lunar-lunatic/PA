@@ -1,0 +1,47 @@
+Motion 53-1: To name the eastern ocean - 100% (4favor,6absent)
+Motion 53-2: To name the Northern ocean - 100% (4favor,6absent)
+Motion 53-3: To name the Southwestern ocean - 100% (4favor,6absent)
+Motion 53-4: To appoint Nicotinhoo to the CotS - 100% (7favor,3absent)
+Motion 53-6: To hold an event for the anniversary of the current server - 100% (7favor,3absent)
+Motion 53-7: To implement the invisible item frames plugin - 83,3% (5favor,1abstain,1against,3absent)
+Motion 53-8: To rename the server to Azuria - 100% (7favor,3absent)
+Motion 53-9: To implement the inventory rollback plugin - 100% (6favor,1abstain,3absent)
+Motion 53-10: To increase phantom spawn time to 7 days - 100% (7favor,3absent)
+Motion 53-11: To implement longer flight duration rockets - 100% (4favor,3abstain,3absent)
+Motion 53-12: To remove Thanster as CotSM - 80% (4favor,3abstain,1against,2absent)
+Motion 53-13: To abolish the ACotCotS - 100% (7favor,3absent)
+(53-5 adjourned)
+(53-5-1 adjourned)
+
+Motion 53-1:
+Emeralda Sea - 20 points
+The Tranquility Ocean - 21 points
+Old Ocean - 19 points
+Tranquility - 19 points
+The Swamp Triangle - 11 points
+4 abstained
+
+Motion 53-2:
+Mayhategerian - 19 points
+Mao Zedong Ocean - 9 points
+Sea of Berghosan - 19 points
+The Batman Ocean - 13 points
+4 abstained
+
+Runoff:
+Mayhategerian - 57,1% (4)
+Sea of Berghosan - 42,9% (3)
+3 abstained
+
+
+Motion 53-3:
+Toko - 16 points
+The Blue Banana - 10 points
+The Gigantic Ocean - 17 points
+Split proposal* - 17 points
+4 abstained
+
+Runoff:
+The Gigantic Ocean - 16,7% (1)
+Split proposal* - 83,3% (5)
+4 abstained
