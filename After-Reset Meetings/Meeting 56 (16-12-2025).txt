@@ -1,0 +1,3 @@
+Motion 56-1: To remove unused regions - 100% (8favor,1against,1absent)
+Motion 56-1A: To remove regions for M49-2 - 100% (8favor,1against,1absent)
+Motion 56-2: To add a condition to the implementation of M49-2 - 57,1% (4favor,1abstain,3against,2absent)
